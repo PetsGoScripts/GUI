@@ -1,1 +1,2 @@
-
+local message = require(game.ReplicatedStorage.Library.Client.Message)
+message.Error("Kittyware Loading... Please do not close this!")
